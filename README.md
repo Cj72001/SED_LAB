@@ -20,6 +20,15 @@ docker-compose up
 git clone https://github.com/Cj72001/SED_LAB
 cd SED_LAB
 npm install
+```
+
+* You need to make the respective changes in app.js
+```bash
+sudo nano src/app.js
+```
+
+* Now run the app
+```bash
 npm run build
 npm start
 ```
