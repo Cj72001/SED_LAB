@@ -6,7 +6,7 @@ This is a Multi page application using nodejs mongodb and handlebars
 
 ```bash
 git clone https://github.com/Cj72001/SED_LAB
-cd express-mongodb-crud
+cd SED_LAB
 docker-compose up
 ```
 
@@ -18,7 +18,7 @@ docker-compose up
 
 ```bash
 git clone https://github.com/Cj72001/SED_LAB
-cd express-mongodb-crud
+cd SED_LAB
 npm install
 npm run build
 npm start
